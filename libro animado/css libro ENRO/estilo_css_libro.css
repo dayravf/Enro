@@ -1,0 +1,39 @@
+body{
+    font-family: sans-serif;
+}
+#portada, #contra{
+    text-align: center;
+    background-color: #4fadca;
+    padding: 20px;
+    height: 600px;
+}
+.paginas{
+    padding: 30px;
+    height: 540px;
+}
+#pagina1, #pagina3, #pagina5, #pagina7
+{
+    background-color: rgb(191, 206, 209);
+}
+#pagina2, #pagina4, #pagina6, #pagina8
+{
+    background-color: rgb(223, 243, 241);
+}
+.b-wrap .b-counter
+{
+    background-color: #89b6f1;
+    margin-left: 40%;
+    margin-right: 40%;
+    color: #fff;
+}
+#wrapper
+{
+    padding-top: 40px;
+}
+#gotopage{
+    text-align:center;
+}
+#in_go{
+    width:40px ;
+    margin-right: 10px;
+}
